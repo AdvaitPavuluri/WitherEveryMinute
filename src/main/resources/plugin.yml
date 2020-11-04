@@ -1,0 +1,11 @@
+name: WitherEveryMinute
+version: ${project.version}
+main: me.advaitpavuluri.withereveryminute.WitherEveryMinute
+api-version: 1.16
+authors: [Advait Pavuluri]
+description: Minecraft, but a wither spawns every minute.
+commands:
+  wemstart:
+    description: Starts the timer for a wither spawning every minute.
+  wemstop:
+    description: Stops the timer for a wither spawning every minute.
